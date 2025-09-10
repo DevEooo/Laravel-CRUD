@@ -23,11 +23,3 @@ It focuses purely on functionality without additional styling. The app demonstra
 ## Purpose
 This project serves as a **foundational example of a Laravel CRUD application**, showing how routes, controllers, models, and views interact to perform essential database operations.  
 It is intended as a learning and practice project before adding UI/UX design or advanced features.
-
----
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/laravel-crud-app.git
